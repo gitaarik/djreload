@@ -1,0 +1,4 @@
+djreload
+========
+
+Reload Django models
